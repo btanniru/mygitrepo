@@ -21,6 +21,3 @@ Stuck Threads str(tpRT.getStuckThreadCount())
 Health getHealthState()
 
 isIdle()
-
-
-Daniel.Summers@census.gov
